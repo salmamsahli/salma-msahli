@@ -1,32 +1,30 @@
-# salma-msahli
-# My Coding Journey - C++ & Problem Solving
+<h1 align="center">Hi 👋, I'm salma msahli</h1>
+<h3 align="center">computer science student at ISAMM</h3>
 
-## About Me
-Hello! I’m Salma MSAHLI, a Computer Science student passionate about problem solving and competitive programming. Currently, I’m focused on improving my skills in **C++**, solving problems on **Codeforces**, and mastering version control with **Git** and **GitHub**. I enjoy tackling algorithmic challenges and building efficient solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmamsahli&label=Profile%20views&color=0e75b6&style=flat" alt="salmamsahli" /> </p>
 
-## Skills & Technologies
-- **C++**: Focused on algorithms, data structures, and performance optimization.
-- **Codeforces**: Solving problems to improve problem-solving skills and algorithms knowledge.
-- **Git & GitHub**: Managing projects, version control, and collaboration with others.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmamsahli" alt="salmamsahli" /></a> </p>
 
-## Codeforces Profile
-You can check out my **Codeforces profile** to see the problems I've solved and my rankings:
-- **[spc.ramen - Codeforces Profile](https://codeforces.com/profile/spc.ramen)**
+- 🔭 I’m currently working on **problem solving**
 
-## Projects
-Here are some of the C++ projects and problems I've worked on:
+- 🌱 I’m currently learning **c++**
 
-### 1. **C++ Algorithms Repository**
-   - **Description**: A collection of C++ solutions to common algorithms and data structures problems.
-   - **Technologies Used**: C++, Algorithms, Data Structures
-   - **Project Link**: [GitHub Repo](https://github.com/salma-msahli/cpp-algorithms)
+- 📝 I regularly write articles on [www.linkedin.com/in/salma-msahli-718464321](www.linkedin.com/in/salma-msahli-718464321)
 
-### 2. **Codeforces Problem Solutions**
-   - **Description**: Solutions to various problems I’ve solved on **Codeforces**.
-   - **Technologies Used**: C++, Problem Solving
-   - **Project Link**: [GitHub Repo](https://github.com/salma-msahli/codeforces-solutions)
+- 📫 How to reach me **msahlisalma11@gmail.com**
 
-## How to Get Started
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/salma-msahli/project-name.git
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/salma msahli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salma msahli" height="30" width="40" /></a>
+<a href="https://fb.com/salma m'sahli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salma m'sahli" height="30" width="40" /></a>
+<a href="https://instagram.com/salma msahli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salma msahli" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmamsahli&show_icons=true&locale=en&layout=compact" alt="salmamsahli" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmamsahli&show_icons=true&locale=en" alt="salmamsahli" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmamsahli&" alt="salmamsahli" /></p>
